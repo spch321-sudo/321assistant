@@ -1,4 +1,4 @@
-var V = 'ta321-1.0.1';
+var V = 'ta321-1.0.2';
 var FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './lessons.json'];
 self.addEventListener('install', function (e) {
   self.skipWaiting();
